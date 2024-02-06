@@ -1,3 +1,39 @@
+<div align="center" id="top"> 
+  <img src="./src/icons/learning.png" alt="React Practice 1" width="100"/>
+
+&#xa0;
+
+<a href="https://maryna-korbet.github.io/react-practice-1">Demo</a>
+
+</div>
+
+<h1 align="center">React Practice 1</h1>
+
+<p align="center">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/Maryna-Korbet/react-practice-1?color=FF8C00">
+
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/Maryna-Korbet/react-practice-1?color=FF8C00">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Maryna-Korbet/react-practice-1?color=FF8C00">
+</p>
+
+<p align="center">
+  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
+  <a href="#task-1">Task#1</a> &#xa0; | &#xa0;
+  <a href="#task-2">Task#2</a> &#xa0; | &#xa0;
+  <a href="#task-3">Task#3</a> &#xa0; | &#xa0;
+  <a href="#task-4">Task#4</a> &#xa0; | &#xa0;
+  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
+</p>
+
+<br>
+
+## :dart: About
+
+Task performance practice
+
+## :task-1: 📕 Task#1
+
 # Картка блогу
 
 Необхідно створити компонент `<BlogCard/>`, за допомогою якого ми могли б
@@ -67,3 +103,15 @@ import article from 'data/article.json';
   postedAt={article.postedAt}
 />;
 ```
+
+## :task-2: 📙 Task#2
+
+## :task-3: 📗 Task#2
+
+## :task-4: 📘 Task#2
+
+## :rocket: Technologies
+
+The following tools were used in this project:
+
+- [React](https://pt-br.reactjs.org/)
